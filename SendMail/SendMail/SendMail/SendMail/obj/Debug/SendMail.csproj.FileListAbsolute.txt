@@ -1,0 +1,16 @@
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\SendMail.exe.config
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\EntityFramework.dll
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\EntityFramework.xml
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.SendMail.resources
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.cache
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.csproj.CopyComplete
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.exe
+C:\Users\Yön\Desktop\SendMail\SendMail\SendMail\SendMail\obj\Debug\SendMail.pdb
